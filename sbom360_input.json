@@ -1,0 +1,17 @@
+{
+  "project": "damn-vulnerable-MCP-server",
+  "version": "main",
+  "exclude_test_dependency": true,
+  "exclude_optional_dependency": true,
+  "use_native_tools": false,
+  "inputtype": "github",
+  "inputs": [
+    {
+      "src_info": {
+        "srcurl": "https://github.com/layro01-org/damn-vulnerable-MCP-server",
+        "matchingref": "main",
+        "type": "github"
+      }
+    }
+  ]
+}

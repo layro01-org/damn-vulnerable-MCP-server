@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Lineaje SBOM files
+.lineaje/
+
 # Distribution / packaging
 .Python
 build/
